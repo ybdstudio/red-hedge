@@ -1,0 +1,9 @@
+{
+  "deviceOrientation": "portrait",
+  "subpackages": [
+    {
+      "name": "art",
+      "root": "art/"
+    }
+  ]
+}

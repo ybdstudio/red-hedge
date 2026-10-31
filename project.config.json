@@ -1,0 +1,12 @@
+{
+  "appid": "YOUR_TIKTOK_APP_ID",
+  "projectname": "red-hedge",
+  "description": "red hedge",
+  "compileType": "game",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": true,
+    "minified": true
+  }
+}
